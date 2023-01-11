@@ -1,0 +1,1223 @@
+******** Bioinformatics PRogramming Challenges
+******** Assignment 2 - Intensive integration using web APIs
+******** Pablo Catarecha
+******** Report start
+.
+*** 73 interactions found between proteins in pairs:
+id1		id2
+AT4G37260	AT4G09650
+AT4G32570	AT4G09650
+AT5G04140	AT4G37930
+AT4G37260	AT1G03130
+AT4G17460	AT3G07220
+AT4G17460	AT1G70920
+AT4G37790	AT4G17460
+AT4G17460	AT1G30490
+AT5G12980	AT4G17460
+AT4G17460	AT2G45680
+AT4G17460	AT2G44910
+AT4G17460	AT4G16780
+AT4G17460	AT3G60390
+AT4G17460	AT3G15030
+AT5G47370	AT4G17460
+AT4G17460	AT2G22800
+AT5G05690	AT3G54130
+AT1G60950	AT4G22890
+AT5G18930	AT1G37130
+AT1G31880	AT1G37130
+AT4G32570	AT1G37130
+AT2G37630	AT1G37130
+AT5G60120	AT1G37130
+AT4G19170	AT5G17790
+AT3G15354	AT5G15850
+AT1G53090	AT5G15850
+AT2G32950	AT5G15850
+AT5G15850	AT4G10240
+AT5G27910	AT5G15850
+AT5G15850	AT1G08970
+AT5G15850	AT3G02150
+AT5G15850	AT3G01140
+AT5G15850	AT1G26780
+AT5G65050	AT5G15850
+AT5G15850	AT3G07220
+AT5G23000	AT5G15850
+AT5G54470	AT5G15850
+AT5G15850	AT4G38960
+AT5G15850	AT4G12210
+AT5G15850	AT2G31380
+AT5G24520	AT5G17300
+AT5G17300	AT1G76510
+AT5G17300	AT1G60250
+AT5G17300	AT5G15210
+AT5G17300	AT3G02150
+AT5G17300	AT3G15030
+AT5G17300	AT3G18550
+AT5G17300	AT5G08330
+AT1G54040	AT4G23810
+AT3G48750	AT3G21870
+AT3G48360	AT4G09570
+AT2G43010	AT3G46640
+AT1G09530	AT2G43010
+AT2G18790	AT2G43010
+AT1G09570	AT2G43010
+AT1G71030	AT4G09820
+AT1G71030	AT1G60250
+AT4G32980	AT1G71030
+AT1G71030	AT1G56650
+AT3G45780	AT5G64330
+AT3G62410	AT3G26650
+AT3G62410	AT1G32060
+AT5G19000	AT1G76080
+AT5G67300	AT1G76080
+AT1G31880	AT1G76080
+AT3G48040	AT3G61260
+AT3G17210	AT3G61260
+AT3G55440	AT3G61260
+AT4G37260	AT4G02770
+AT1G31880	AT4G02770
+AT4G39710	AT4G03280
+AT1G35560	AT1G14280
+AT1G31880	AT1G14280
+.
+*** 14 networks found:
+.
+**Network linked to gene AT4G37260
+.
+15 network components:
+AT4G37260
+AT4G09650
+AT4G32570
+AT1G37130
+AT5G18930
+AT1G31880
+AT1G76080
+AT5G19000
+AT5G67300
+AT4G02770
+AT1G03130
+AT1G14280
+AT1G35560
+AT2G37630
+AT5G60120
+.
+GO processes related to this network:
+GO term ids:
+GO:0019760
+GO:1901001
+GO:0010929
+GO:0006355
+GO:0006122
+GO:0015979
+GO:0009773
+GO:0009772
+GO:0015986
+GO:0009409
+GO:0035556
+GO:0031347
+GO:2000022
+GO:0009611
+GO:0042128
+GO:0006809
+GO:0009635
+GO:0009416
+GO:0009610
+GO:0099402
+GO:0008295
+GO:0006597
+GO:0010315
+GO:0009734
+GO:0030154
+GO:0009736
+GO:0048527
+GO:0010078
+GO:0010088
+GO:2000280
+GO:0009737
+GO:0048364
+GO:0048756
+GO:0045454
+GO:0042742
+GO:0010286
+GO:0006979
+GO:0009414
+GO:0071472
+GO:0042631
+GO:0016567
+GO:0006970
+GO:0046496
+GO:0009738
+GO:0050832
+GO:1900150
+GO:2000031
+GO:0009408
+GO:0009753
+GO:0009751
+GO:0009651
+GO:0140547
+GO:0048366
+GO:0009638
+GO:0009585
+GO:0048510
+GO:0008356
+GO:0009908
+GO:0010338
+GO:0009965
+GO:0045892
+GO:0009944
+GO:0009946
+GO:0045088
+GO:0009615
+GO:0009873
+GO:0010629
+GO:0045824
+.
+GO process names:
+P:glucosinolate metabolic process
+P:negative regulation of response to salt stress
+P:positive regulation of auxin mediated signaling pathway
+P:regulation of DNA-templated transcription
+P:mitochondrial electron transport, ubiquinol to cytochrome c
+P:photosynthesis
+P:photosynthetic electron transport in photosystem I
+P:photosynthetic electron transport in photosystem II
+P:proton motive force-driven ATP synthesis
+P:response to cold
+P:intracellular signal transduction
+P:regulation of defense response
+P:regulation of jasmonic acid mediated signaling pathway
+P:response to wounding
+P:nitrate assimilation
+P:nitric oxide biosynthetic process
+P:response to herbicide
+P:response to light stimulus
+P:response to symbiotic fungus
+P:plant organ development
+P:spermidine biosynthetic process
+P:spermine biosynthetic process
+P:auxin export across the plasma membrane
+P:auxin-activated signaling pathway
+P:cell differentiation
+P:cytokinin-activated signaling pathway
+P:lateral root development
+P:maintenance of root meristem identity
+P:phloem development
+P:regulation of root development
+P:response to abscisic acid
+P:root development
+P:sieve cell differentiation
+P:cell redox homeostasis
+P:defense response to bacterium
+P:heat acclimation
+P:response to oxidative stress
+P:response to water deprivation
+P:cellular response to salt stress
+P:cellular response to water deprivation
+P:protein ubiquitination
+P:response to osmotic stress
+P:nicotinamide nucleotide metabolic process
+P:abscisic acid-activated signaling pathway
+P:defense response to fungus
+P:regulation of defense response to fungus
+P:regulation of salicylic acid mediated signaling pathway
+P:response to heat
+P:response to jasmonic acid
+P:response to salicylic acid
+P:response to salt stress
+P:acquisition of seed longevity
+P:leaf development
+P:phototropism
+P:red, far-red light phototransduction
+P:regulation of timing of transition from vegetative to reproductive phase
+P:asymmetric cell division
+P:flower development
+P:leaf formation
+P:leaf morphogenesis
+P:negative regulation of DNA-templated transcription
+P:polarity specification of adaxial/abaxial axis
+P:proximal/distal axis specification
+P:regulation of innate immune response
+P:response to virus
+P:ethylene-activated signaling pathway
+P:negative regulation of gene expression
+P:negative regulation of innate immune response
+.
+KEGG pathways related to this network:
+KEGG pathway ids:
+ath00190
+ath00195
+ath01100
+ath00910
+ath00270
+ath00330
+.
+KEGG pathways:
+Oxidative phosphorylation
+Photosynthesis
+Metabolic pathways
+Nitrogen metabolism
+Cysteine and methionine metabolism
+Arginine and proline metabolism
+.
+**Network linked to gene AT5G04140
+.
+2 network components:
+AT5G04140
+AT4G37930
+.
+GO processes related to this network:
+GO term ids:
+GO:0019676
+GO:0006537
+GO:0097054
+GO:0009853
+GO:0080114
+GO:0009416
+GO:0009744
+GO:0006541
+GO:0007623
+GO:0046655
+GO:0019264
+GO:0006544
+GO:0006565
+GO:0006563
+GO:0006730
+GO:0009626
+GO:0009409
+GO:0035999
+GO:0046653
+.
+GO process names:
+P:ammonia assimilation cycle
+P:glutamate biosynthetic process
+P:L-glutamate biosynthetic process
+P:photorespiration
+P:positive regulation of glycine hydroxymethyltransferase activity
+P:response to light stimulus
+P:response to sucrose
+P:glutamine metabolic process
+P:circadian rhythm
+P:folic acid metabolic process
+P:glycine biosynthetic process from serine
+P:glycine metabolic process
+P:L-serine catabolic process
+P:L-serine metabolic process
+P:one-carbon metabolic process
+P:plant-type hypersensitive response
+P:response to cold
+P:tetrahydrofolate interconversion
+P:tetrahydrofolate metabolic process
+.
+KEGG pathways related to this network:
+KEGG pathway ids:
+ath00630
+ath00910
+ath00260
+ath00460
+ath00670
+ath01100
+ath01110
+ath01200
+ath01230
+ath01240
+.
+KEGG pathways:
+Glyoxylate and dicarboxylate metabolism
+Nitrogen metabolism
+Glycine, serine and threonine metabolism
+Cyanoamino acid metabolism
+One carbon pool by folate
+Metabolic pathways
+Biosynthesis of secondary metabolites
+Carbon metabolism
+Biosynthesis of amino acids
+Biosynthesis of cofactors
+.
+**Network linked to gene AT4G17460
+.
+40 network components:
+AT4G17460
+AT3G07220
+AT5G15850
+AT3G15354
+AT1G53090
+AT2G32950
+AT4G10240
+AT5G27910
+AT1G08970
+AT3G02150
+AT5G17300
+AT5G24520
+AT1G76510
+AT1G60250
+AT1G71030
+AT4G09820
+AT4G32980
+AT1G56650
+AT5G15210
+AT3G15030
+AT1G70920
+AT4G37790
+AT1G30490
+AT5G12980
+AT2G45680
+AT2G44910
+AT4G16780
+AT3G60390
+AT5G47370
+AT2G22800
+AT3G18550
+AT5G08330
+AT3G01140
+AT1G26780
+AT5G65050
+AT5G23000
+AT5G54470
+AT4G38960
+AT4G12210
+AT2G31380
+.
+GO processes related to this network:
+GO term ids:
+GO:0003006
+GO:0010582
+GO:0080127
+GO:0048467
+GO:0006338
+GO:0048638
+GO:0006355
+GO:0060962
+GO:0080086
+GO:0035998
+GO:0046654
+GO:0009909
+GO:0000398
+GO:0009640
+GO:0006468
+GO:0009585
+GO:0009637
+GO:0046283
+GO:0006281
+GO:0009649
+GO:0048573
+GO:0009963
+GO:0043161
+GO:0010119
+GO:0010224
+GO:0009641
+GO:0009647
+GO:0009738
+GO:0009740
+GO:2000306
+GO:0010029
+GO:0048366
+GO:0010150
+GO:0031347
+GO:2000032
+GO:0006021
+GO:0046855
+GO:0046854
+GO:0009734
+GO:0007623
+GO:0010600
+GO:0016567
+GO:0045165
+GO:0009957
+GO:0032880
+GO:0009733
+GO:0009723
+GO:0010026
+GO:0098869
+GO:0006357
+GO:0009718
+GO:0030154
+GO:0010023
+GO:0009813
+GO:0009867
+GO:0031542
+GO:0009962
+GO:2000029
+GO:0010214
+GO:0048316
+GO:0006869
+GO:0010227
+GO:0010073
+GO:0008285
+GO:0010371
+GO:0090470
+GO:0010228
+GO:0031540
+GO:0019430
+GO:0002239
+GO:0009745
+GO:0019760
+GO:0048825
+GO:0048826
+GO:0009793
+GO:0051707
+GO:0015979
+GO:0009737
+GO:0009735
+GO:0009414
+GO:0045739
+GO:0009943
+GO:0009855
+GO:0009880
+GO:0080060
+GO:0010014
+GO:0009944
+GO:0010072
+GO:0017148
+GO:1900056
+GO:0008361
+GO:0048364
+GO:0010218
+GO:0009725
+GO:0015031
+GO:0016192
+GO:0010311
+GO:0045892
+GO:0010017
+GO:0080191
+GO:0010016
+GO:0009826
+GO:0010223
+GO:0043433
+GO:0042753
+GO:0042752
+GO:0048511
+GO:0007031
+GO:0000902
+GO:0035017
+GO:1901957
+GO:0010091
+GO:0010199
+GO:0009910
+GO:0010221
+GO:0045944
+GO:0010048
+GO:0006351
+GO:0090506
+GO:0071456
+GO:0009555
+GO:0009409
+GO:0006629
+GO:0010100
+GO:0032259
+.
+GO process names:
+P:developmental process involved in reproduction
+P:floral meristem determinacy
+P:fruit septum development
+P:gynoecium development
+P:chromatin remodeling
+P:regulation of developmental growth
+P:regulation of DNA-templated transcription
+P:regulation of ribosomal protein gene transcription by RNA polymerase II
+P:stamen filament development
+P:7,8-dihydroneopterin 3'-triphosphate biosynthetic process
+P:tetrahydrofolate biosynthetic process
+P:regulation of flower development
+P:mRNA splicing, via spliceosome
+P:photomorphogenesis
+P:protein phosphorylation
+P:red, far-red light phototransduction
+P:response to blue light
+P:anthocyanin-containing compound metabolic process
+P:DNA repair
+P:entrainment of circadian clock
+P:photoperiodism, flowering
+P:positive regulation of flavonoid biosynthetic process
+P:proteasome-mediated ubiquitin-dependent protein catabolic process
+P:regulation of stomatal movement
+P:response to UV-B
+P:shade avoidance
+P:skotomorphogenesis
+P:abscisic acid-activated signaling pathway
+P:gibberellic acid mediated signaling pathway
+P:positive regulation of photomorphogenesis
+P:regulation of seed germination
+P:leaf development
+P:leaf senescence
+P:regulation of defense response
+P:regulation of secondary shoot formation
+P:inositol biosynthetic process
+P:inositol phosphate dephosphorylation
+P:phosphatidylinositol phosphate biosynthetic process
+P:auxin-activated signaling pathway
+P:circadian rhythm
+P:regulation of auxin biosynthetic process
+P:protein ubiquitination
+P:cell fate commitment
+P:epidermal cell fate specification
+P:regulation of protein localization
+P:response to auxin
+P:response to ethylene
+P:trichome differentiation
+P:cellular oxidant detoxification
+P:regulation of transcription by RNA polymerase II
+P:anthocyanin-containing compound biosynthetic process
+P:cell differentiation
+P:proanthocyanidin biosynthetic process
+P:flavonoid biosynthetic process
+P:jasmonic acid mediated signaling pathway
+P:positive regulation of anthocyanin biosynthetic process
+P:regulation of flavonoid biosynthetic process
+P:regulation of proanthocyanidin biosynthetic process
+P:seed coat development
+P:seed development
+P:lipid transport
+P:floral organ abscission
+P:meristem maintenance
+P:negative regulation of cell population proliferation
+P:regulation of gibberellin biosynthetic process
+P:shoot organ boundary specification
+P:vegetative to reproductive phase transition of meristem
+P:regulation of anthocyanin biosynthetic process
+P:removal of superoxide radicals
+P:response to oomycetes
+P:sucrose mediated signaling
+P:glucosinolate metabolic process
+P:cotyledon development
+P:cotyledon morphogenesis
+P:embryo development ending in seed dormancy
+P:response to other organism
+P:photosynthesis
+P:response to abscisic acid
+P:response to cytokinin
+P:response to water deprivation
+P:positive regulation of DNA repair
+P:adaxial/abaxial axis specification
+P:determination of bilateral symmetry
+P:embryonic pattern specification
+P:integument development
+P:meristem initiation
+P:polarity specification of adaxial/abaxial axis
+P:primary shoot apical meristem specification
+P:negative regulation of translation
+P:negative regulation of leaf senescence
+P:regulation of cell size
+P:root development
+P:response to far red light
+P:response to hormone
+P:protein transport
+P:vesicle-mediated transport
+P:lateral root formation
+P:negative regulation of DNA-templated transcription
+P:red or far-red light signaling pathway
+P:secondary thickening
+P:shoot system morphogenesis
+P:unidimensional cell growth
+P:secondary shoot formation
+P:negative regulation of DNA-binding transcription factor activity
+P:positive regulation of circadian rhythm
+P:regulation of circadian rhythm
+P:rhythmic process
+P:peroxisome organization
+P:cell morphogenesis
+P:cuticle pattern formation
+P:regulation of cutin biosynthetic process
+P:trichome branching
+P:organ boundary specification between lateral organs and the meristem
+P:negative regulation of flower development
+P:negative regulation of vernalization response
+P:positive regulation of transcription by RNA polymerase II
+P:vernalization response
+P:DNA-templated transcription
+P:axillary shoot meristem initiation
+P:cellular response to hypoxia
+P:pollen development
+P:response to cold
+P:lipid metabolic process
+P:negative regulation of photomorphogenesis
+P:methylation
+.
+KEGG pathways related to this network:
+KEGG pathway ids:
+ath04120
+ath04712
+ath03018
+.
+KEGG pathways:
+Ubiquitin mediated proteolysis
+Circadian rhythm - plant
+RNA degradation
+.
+**Network linked to gene AT5G05690
+.
+2 network components:
+AT5G05690
+AT3G54130
+.
+GO processes related to this network:
+GO term ids:
+GO:0048657
+GO:0016132
+GO:0010268
+GO:0010584
+GO:0009911
+GO:0010224
+GO:0016125
+GO:0016579
+GO:0009808
+GO:0009834
+GO:0008202
+GO:0009826
+GO:0006468
+GO:0050896
+.
+GO process names:
+P:anther wall tapetum cell differentiation
+P:brassinosteroid biosynthetic process
+P:brassinosteroid homeostasis
+P:pollen exine formation
+P:positive regulation of flower development
+P:response to UV-B
+P:sterol metabolic process
+P:protein deubiquitination
+P:lignin metabolic process
+P:plant-type secondary cell wall biogenesis
+P:steroid metabolic process
+P:unidimensional cell growth
+P:protein phosphorylation
+P:response to stimulus
+.
+KEGG pathways related to this network:
+KEGG pathway ids:
+
+.
+KEGG pathways:
+
+.
+**Network linked to gene AT1G60950
+.
+2 network components:
+AT1G60950
+AT4G22890
+.
+GO processes related to this network:
+GO term ids:
+GO:0009643
+GO:0009767
+GO:0009853
+GO:0019253
+GO:0009773
+.
+GO process names:
+P:photosynthetic acclimation
+P:photosynthetic electron transport chain
+P:photorespiration
+P:reductive pentose-phosphate cycle
+P:photosynthetic electron transport in photosystem I
+.
+KEGG pathways related to this network:
+KEGG pathway ids:
+
+.
+KEGG pathways:
+
+.
+**Network linked to gene AT4G19170
+.
+2 network components:
+AT4G19170
+AT5G17790
+.
+GO processes related to this network:
+GO term ids:
+
+.
+GO process names:
+
+.
+KEGG pathways related to this network:
+KEGG pathway ids:
+
+.
+KEGG pathways:
+
+.
+**Network linked to gene AT1G54040
+.
+2 network components:
+AT1G54040
+AT4G23810
+.
+GO processes related to this network:
+GO term ids:
+GO:0042742
+GO:0019762
+GO:0010150
+GO:0080028
+GO:0009753
+GO:0045893
+GO:0031347
+GO:2000022
+GO:0009617
+GO:0042542
+GO:0010193
+GO:0009751
+GO:0006367
+.
+GO process names:
+P:defense response to bacterium
+P:glucosinolate catabolic process
+P:leaf senescence
+P:nitrile biosynthetic process
+P:response to jasmonic acid
+P:positive regulation of DNA-templated transcription
+P:regulation of defense response
+P:regulation of jasmonic acid mediated signaling pathway
+P:response to bacterium
+P:response to hydrogen peroxide
+P:response to ozone
+P:response to salicylic acid
+P:transcription initiation at RNA polymerase II promoter
+.
+KEGG pathways related to this network:
+KEGG pathway ids:
+
+.
+KEGG pathways:
+
+.
+**Network linked to gene AT3G48750
+.
+2 network components:
+AT3G48750
+AT3G21870
+.
+GO processes related to this network:
+GO term ids:
+GO:0008356
+GO:0000911
+GO:0042023
+GO:0009793
+GO:0000082
+GO:0048229
+GO:0010235
+GO:0010444
+GO:0033206
+GO:0009555
+GO:0008284
+GO:0006468
+GO:1902806
+GO:0010389
+GO:0010468
+GO:0051445
+GO:0040020
+GO:0009409
+GO:0007165
+GO:0098725
+GO:0007049
+GO:0051301
+GO:0000079
+.
+GO process names:
+P:asymmetric cell division
+P:cytokinesis by cell plate formation
+P:DNA endoreduplication
+P:embryo development ending in seed dormancy
+P:G1/S transition of mitotic cell cycle
+P:gametophyte development
+P:guard mother cell cytokinesis
+P:guard mother cell differentiation
+P:meiotic cytokinesis
+P:pollen development
+P:positive regulation of cell population proliferation
+P:protein phosphorylation
+P:regulation of cell cycle G1/S phase transition
+P:regulation of G2/M transition of mitotic cell cycle
+P:regulation of gene expression
+P:regulation of meiotic cell cycle
+P:regulation of meiotic nuclear division
+P:response to cold
+P:signal transduction
+P:symmetric cell division
+P:cell cycle
+P:cell division
+P:regulation of cyclin-dependent protein serine/threonine kinase activity
+.
+KEGG pathways related to this network:
+KEGG pathway ids:
+
+.
+KEGG pathways:
+
+.
+**Network linked to gene AT3G48360
+.
+2 network components:
+AT3G48360
+AT4G09570
+.
+GO processes related to this network:
+GO term ids:
+GO:0009738
+GO:0009734
+GO:0007623
+GO:0009553
+GO:0009555
+GO:0051973
+GO:0016567
+GO:0006355
+GO:0009737
+GO:0009733
+GO:0009743
+GO:0009409
+GO:0042542
+GO:0009753
+GO:0010167
+GO:0009751
+GO:0009651
+GO:0009611
+GO:0010182
+GO:0010468
+GO:0009725
+GO:0042221
+GO:0006950
+GO:0035556
+GO:0018105
+GO:0009789
+GO:0046777
+GO:0006468
+.
+GO process names:
+P:abscisic acid-activated signaling pathway
+P:auxin-activated signaling pathway
+P:circadian rhythm
+P:embryo sac development
+P:pollen development
+P:positive regulation of telomerase activity
+P:protein ubiquitination
+P:regulation of DNA-templated transcription
+P:response to abscisic acid
+P:response to auxin
+P:response to carbohydrate
+P:response to cold
+P:response to hydrogen peroxide
+P:response to jasmonic acid
+P:response to nitrate
+P:response to salicylic acid
+P:response to salt stress
+P:response to wounding
+P:sugar mediated signaling pathway
+P:regulation of gene expression
+P:response to hormone
+P:response to chemical
+P:response to stress
+P:intracellular signal transduction
+P:peptidyl-serine phosphorylation
+P:positive regulation of abscisic acid-activated signaling pathway
+P:protein autophosphorylation
+P:protein phosphorylation
+.
+KEGG pathways related to this network:
+KEGG pathway ids:
+
+.
+KEGG pathways:
+
+.
+**Network linked to gene AT2G43010
+.
+5 network components:
+AT2G43010
+AT3G46640
+AT1G09530
+AT2G18790
+AT1G09570
+.
+GO processes related to this network:
+GO term ids:
+GO:0009704
+GO:0009638
+GO:0010161
+GO:0010017
+GO:0009585
+GO:0010600
+GO:0010928
+GO:0010244
+GO:0007623
+GO:0000122
+GO:0042753
+GO:0042752
+GO:0006355
+GO:0010468
+GO:0009740
+GO:0031539
+GO:0042548
+GO:1905421
+GO:0009639
+GO:1990785
+GO:0009826
+GO:0006412
+GO:0009687
+GO:0006325
+GO:0010617
+GO:0009584
+GO:0009649
+GO:0009630
+GO:0009867
+GO:0045892
+GO:0009640
+GO:0015979
+GO:0017012
+GO:0031347
+GO:2000028
+GO:0010029
+GO:0009409
+GO:0010218
+GO:0010202
+GO:0009266
+GO:0010374
+GO:0010148
+GO:0017006
+GO:0060320
+GO:0017148
+GO:0046685
+GO:0010201
+GO:0010203
+.
+GO process names:
+P:de-etiolation
+P:phototropism
+P:red light signaling pathway
+P:red or far-red light signaling pathway
+P:red, far-red light phototransduction
+P:regulation of auxin biosynthetic process
+P:regulation of auxin mediated signaling pathway
+P:response to low fluence blue light stimulus by blue low-fluence system
+P:circadian rhythm
+P:negative regulation of transcription by RNA polymerase II
+P:positive regulation of circadian rhythm
+P:regulation of circadian rhythm
+P:regulation of DNA-templated transcription
+P:regulation of gene expression
+P:gibberellic acid mediated signaling pathway
+P:positive regulation of anthocyanin metabolic process
+P:regulation of photosynthesis, light reaction
+P:regulation of plant organ morphogenesis
+P:response to red or far red light
+P:response to water-immersion restraint stress
+P:unidimensional cell growth
+P:translation
+P:abscisic acid metabolic process
+P:chromatin organization
+P:circadian regulation of calcium ion oscillation
+P:detection of visible light
+P:entrainment of circadian clock
+P:gravitropism
+P:jasmonic acid mediated signaling pathway
+P:negative regulation of DNA-templated transcription
+P:photomorphogenesis
+P:photosynthesis
+P:protein-phytochromobilin linkage
+P:regulation of defense response
+P:regulation of photoperiodism, flowering
+P:regulation of seed germination
+P:response to cold
+P:response to far red light
+P:response to low fluence red light stimulus
+P:response to temperature stimulus
+P:stomatal complex development
+P:transpiration
+P:protein-tetrapyrrole linkage
+P:rejection of self pollen
+P:negative regulation of translation
+P:response to arsenic-containing substance
+P:response to continuous far red light stimulus by the high-irradiance response system
+P:response to very low fluence red light stimulus
+.
+KEGG pathways related to this network:
+KEGG pathway ids:
+ath04075
+ath04712
+.
+KEGG pathways:
+Plant hormone signal transduction
+Circadian rhythm - plant
+.
+**Network linked to gene AT3G45780
+.
+2 network components:
+AT3G45780
+AT5G64330
+.
+GO processes related to this network:
+GO term ids:
+GO:0009904
+GO:0009903
+GO:0007623
+GO:0010362
+GO:0009638
+GO:0046777
+GO:0006468
+GO:0010155
+GO:0010119
+GO:0009637
+GO:0007165
+GO:0006470
+GO:0009785
+GO:0016567
+GO:0097428
+.
+GO process names:
+P:chloroplast accumulation movement
+P:chloroplast avoidance movement
+P:circadian rhythm
+P:negative regulation of anion channel activity by blue light
+P:phototropism
+P:protein autophosphorylation
+P:protein phosphorylation
+P:regulation of proton transport
+P:regulation of stomatal movement
+P:response to blue light
+P:signal transduction
+P:protein dephosphorylation
+P:blue light signaling pathway
+P:protein ubiquitination
+P:protein maturation by iron-sulfur cluster transfer
+.
+KEGG pathways related to this network:
+KEGG pathway ids:
+
+.
+KEGG pathways:
+
+.
+**Network linked to gene AT3G62410
+.
+3 network components:
+AT3G62410
+AT3G26650
+AT1G32060
+.
+GO processes related to this network:
+GO term ids:
+GO:0071454
+GO:0070417
+GO:0034605
+GO:0080153
+GO:0018316
+GO:0065003
+GO:0019253
+GO:0009416
+GO:0009744
+GO:0006006
+GO:0051289
+GO:0009409
+GO:0016310
+.
+GO process names:
+P:cellular response to anoxia
+P:cellular response to cold
+P:cellular response to heat
+P:negative regulation of reductive pentose-phosphate cycle
+P:peptide cross-linking via L-cystine
+P:protein-containing complex assembly
+P:reductive pentose-phosphate cycle
+P:response to light stimulus
+P:response to sucrose
+P:glucose metabolic process
+P:protein homotetramerization
+P:response to cold
+P:phosphorylation
+.
+KEGG pathways related to this network:
+KEGG pathway ids:
+ath00710
+ath01100
+ath01200
+.
+KEGG pathways:
+Carbon fixation in photosynthetic organisms
+Metabolic pathways
+Carbon metabolism
+.
+**Network linked to gene AT3G48040
+.
+4 network components:
+AT3G48040
+AT3G61260
+AT3G17210
+AT3G55440
+.
+GO processes related to this network:
+GO term ids:
+GO:0009738
+GO:0007015
+GO:0030865
+GO:0007163
+GO:0009788
+GO:0032956
+GO:0008360
+GO:0007264
+GO:0051607
+GO:0051665
+GO:0009751
+GO:1901700
+GO:0042742
+GO:0050832
+GO:0009865
+GO:0044262
+GO:0006094
+GO:0046166
+GO:0019563
+GO:0006096
+GO:0010043
+.
+GO process names:
+P:abscisic acid-activated signaling pathway
+P:actin filament organization
+P:cortical cytoskeleton organization
+P:establishment or maintenance of cell polarity
+P:negative regulation of abscisic acid-activated signaling pathway
+P:regulation of actin cytoskeleton organization
+P:regulation of cell shape
+P:small GTPase mediated signal transduction
+P:defense response to virus
+P:membrane raft localization
+P:response to salicylic acid
+P:response to oxygen-containing compound
+P:defense response to bacterium
+P:defense response to fungus
+P:pollen tube adhesion
+P:cellular carbohydrate metabolic process
+P:gluconeogenesis
+P:glyceraldehyde-3-phosphate biosynthetic process
+P:glycerol catabolic process
+P:glycolytic process
+P:response to zinc ion
+.
+KEGG pathways related to this network:
+KEGG pathway ids:
+
+.
+KEGG pathways:
+
+.
+**Network linked to gene AT4G39710
+.
+2 network components:
+AT4G39710
+AT4G03280
+.
+GO processes related to this network:
+GO term ids:
+GO:0010196
+GO:0009767
+GO:0006468
+.
+GO process names:
+P:nonphotochemical quenching
+P:photosynthetic electron transport chain
+P:protein phosphorylation
+.
+KEGG pathways related to this network:
+KEGG pathway ids:
+
+.
+KEGG pathways:
+
+.
+****** End of report.
